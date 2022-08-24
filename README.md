@@ -1,2 +1,2 @@
-# demo
+# dojo-practice
 dojo demo
